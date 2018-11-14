@@ -1,11 +1,11 @@
 # coinhive-chrome-mozilla
-keylogger + cryptojacking extension chrome and mozilla ,baisic malware browser,  Keylogger capture and send inormations to a server web mining monero with coinhive, you need just a key with coinhive
+keylogger + cryptojacking extension chrome and mozilla ,baisic malware browser,  Keylogger capture credential,IP ,and send inormations to a server web mining monero with coinhive, you need just a key with coinhive
 
 demo video YOUTUB
 
-chrome : https://www.youtube.com/watch?v=yMUwwM5QWgc&feature=youtu.be
+chrome extension: https://www.youtube.com/watch?v=yMUwwM5QWgc&feature=youtu.be
 
-Mozilla https://www.youtube.com/watch?v=KaKZtF2Py0U&feature=youtu.be
+adon Mozilla https://www.youtube.com/watch?v=KaKZtF2Py0U&feature=youtu.be
 
 
 # Requirements
@@ -22,6 +22,7 @@ Mozilla https://www.youtube.com/watch?v=KaKZtF2Py0U&feature=youtu.be
    - Enable Developer option 
    - Click on the option Load Expanded Extension 
    - Point the path to the adon-mozilla folder
+  
   
  # mozilla 
  
