@@ -1,5 +1,5 @@
 # coinhive-chrome-mozilla
-keylogger + cryptojacking extension chrome and mozilla ,baisic malware browser,  Keylogger capture credential,IP ,and send inormations to a server web mining monero with coinhive, you need just a key with coinhive
+keylogger + cryptojacking extension chrome and mozilla ,basic malware browser,  Keylogger capture credential,IP ,and send inormations to a server web mining monero with coinhive, you need just a key with coinhive
 
 demo video YOUTUB
 
