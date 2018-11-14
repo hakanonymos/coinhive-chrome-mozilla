@@ -1,0 +1,30 @@
+body {
+    width: 400px;
+    height: 280px;
+    background-color: #ffffdd;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+button {
+    color: #aaaaaa;
+}
+
+button:hover { color: #000000;}
+
+#disclaimer {
+    font-size: 10px;
+    opacity: 0.7;
+}
+
+#refdisclaimer {
+    font-size: 12px;
+    color: #dd0000;
+}
+
+#startstop {
+    font-size:30px;
+    color: #ff5555;
+}
